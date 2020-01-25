@@ -27,11 +27,11 @@ Then, i used these keys and texto on this online tool to get the secret informat
 
 Reference Tool to RSA (Encryption Decryption) https://8gwifi.org/rsafunctions.jsp
 
-![](https://github.com/j4m3sb0nd007/riceteacatpanda/blob/master/rsa.png?raw=true)
+![](https://github.com/j4m3sb0nd007/riceteacatpanda/blob/master/riceteacatpanda/growlsatthechicken/rsa.png?raw=true)
 
 I found new site ( http://unknown-123-246-470-726.herokuapp.com/ ) and i used inspect element to get this information on source.
 
-![](https://github.com/j4m3sb0nd007/riceteacatpanda/blob/master/growls_step1.png?raw=true)
+![](https://github.com/j4m3sb0nd007/riceteacatpanda/blob/master/riceteacatpanda/growlsatthechicken/growls_step1.png?raw=true)
 
 ```
 <p hidden>9 20 30 15 16 5 14 19 30 27 29 8 20 13 12 28</p>
@@ -67,7 +67,7 @@ After look the conversation between Jade and Agate, i got the url hint *"Yep, it
 
 http://unknown-123-246-470-726.herokuapp.com/drawer.html
 
-![](https://github.com/j4m3sb0nd007/riceteacatpanda/blob/master/growls_step2.png?raw=true)
+![](https://github.com/j4m3sb0nd007/riceteacatpanda/blob/master/riceteacatpanda/growlsatthechicken/growls_step2.png?raw=true)
 
 ## Flag
 
