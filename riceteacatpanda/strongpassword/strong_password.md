@@ -16,7 +16,7 @@ Come on, repeat it! Just once!
 
 ## Solution
 
-We saw the name of this CTF is the same items of Description challenge.
+I saw the name of this CTF ( https://riceteacatpanda.wtf/ ) is the same items of Description challenge. 
 
 | Hint | CTF Name |
 | -------- | -------- |
