@@ -45,21 +45,21 @@ AUG CAA GGU CUC UUG ACC CAG UGG AUA CUA AAU GCC UGG AAG GUA GCA UAC UAG
 ### Applying key
 
 [6] Gluta<b>m</b>ine   = m <br />
-[3] Glycine     = y <br />
-[4] Leucine     = c <br />
-[3] Leucine     = u <br />
-[1] Threonine   = T <br />
-[9] Glutamine   = e <br />
-[8] Tryptophan  = h <br />
-[3] Isoleucine  = o <br />
-[3] Leucine     = u <br />
-[2] Asparagine  = s <br />
-[7] Alanine     = e <br />
-[4] Tryptophan  = p <br />
-[1] Lysine      = L <br />
-[2] Valine      = a <br />
-[4] Alanine     = n <br />
-[1] Tyrosine    = T <br />
+[3] Gl<b>y</b>cine     = y <br />
+[4] Leu<b>c</b>ine     = c <br />
+[3] Le<b>u</b>cine     = u <br />
+[1] <b>T</b>hreonine   = T <br />
+[9] Glutamin<b>e</b>   = e <br />
+[8] Tryptop<b>h</b>an  = h <br />
+[3] Is<b>o</b>leucine  = o <br />
+[3] Le<b>u</b>cine     = u <br />
+[2] A<b>s</b>paragine  = s <br />
+[7] Alanin<b>e</b>     = e <br />
+[4] Trypto<b>p</b>han  = p <br />
+[1] <b>L</b>ysine      = L <br />
+[2] V<b>a</b>line      = a <br />
+[4] Ala<b>n</b>ine     = n <br />
+[1] <b>T</b>yrosine    = T <br />
 
 ## Flag
 
