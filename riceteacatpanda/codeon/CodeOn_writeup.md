@@ -25,23 +25,6 @@ AUG CAA GGU CUC UUG ACC CAG UGG AUA CUA AAU GCC UGG AAG GUA GCA UAC UAG
 
 ### Index of Amino Acids
 
-01 - CAA - Glutamine <br />
-02 - GGU - Glycine <br />
-03 - CUC - Leucine <br />
-04 - UUG - Leucine <br />
-05 - ACC - Threonine <br />
-06 - CAG - Glutamine <br />
-07 - UGG - Tryptophan <br />
-08 - AUA - Isoleucine <br />
-09 - CUA - Leucine <br />
-10 - AAU - Asparagine <br />
-11 - GCC - Alanine <br />
-12 - UGG - Tryptophan <br />
-13 - AAG - Lysine <br />
-14 - GUA - Valine <br />
-15 - GCA - Alanine <br />
-16 - UAC - Tyrosine <br />
-
 | Index | Codon | Amino Acid |
 | -------- | -------- | -------- |
 | 01     | CAA     | Glutamine     |
@@ -63,22 +46,24 @@ AUG CAA GGU CUC UUG ACC CAG UGG AUA CUA AAU GCC UGG AAG GUA GCA UAC UAG
 
 ### Applying key
 
-[6] Gluta<b><span style="color:red">m</span></b>ine   = m <br />
-[3] Gl<b><span style="color:red">y</span></b>cine     = y <br />
-[4] Leu<b><span style="color:red">c</span></b>ine     = c <br />
-[3] Le<b><span style="color:red">u</span></b>cine     = u <br />
-[1] <b><span style="color:red">T</span></b>hreonine   = T <br />
-[9] Glutamin<b><span style="color:red">e</span></b>   = e <br />
-[8] Tryptop<b><span style="color:red">h</span></b>an  = h <br />
-[3] Is<b><span style="color:red">o</span></b>leucine  = o <br />
-[3] Le<b><span style="color:red">u</span></b>cine     = u <br />
-[2] A<b><span style="color:red">s</span></b>paragine  = s <br />
-[7] Alanin<b><span style="color:red">e</span></b>     = e <br />
-[4] Trypto<b><span style="color:red">p</span></b>han  = p <br />
-[1] <b><span style="color:red">L</span></b>ysine      = L <br />
-[2] V<b><span style="color:red">a</span></b>line      = a <br />
-[4] Ala<b><span style="color:red">n</span></b>ine     = n <br />
-  [1] <b><span style="color:red">T</span></b>yrosine    = T <br />
+| Key | Amino Acid | Char |
+| -------- | -------- | -------- |
+| 6     | Glutamine     | m     |
+| 3     | Glycine     | y     |
+| 4     | Leucine     | c     |
+| 3     | Leucine     | u     |
+| 1     | Threonine     | T     |
+| 9     | Glutamine     | e     |
+| 8     | Tryptophan     | h     |
+| 3     | Isoleucine     | o     |
+| 3     | Leucine     | u     |
+| 2     | Asparagine     | s     |
+| 7     | Alanine     | e     |
+| 4     | Tryptophan     | p     |
+| 1     | Lysine     | L     |
+| 2     | Valine     | a     |
+| 4     | Alanine     | n     |
+| 1     | Tyrosine     | T     |
 
 ## Flag
 
