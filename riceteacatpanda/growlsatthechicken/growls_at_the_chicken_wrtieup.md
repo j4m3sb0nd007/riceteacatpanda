@@ -33,7 +33,7 @@ I found new site ( http://unknown-123-246-470-726.herokuapp.com/ ) and i used in
 
 ![](https://github.com/j4m3sb0nd007/riceteacatpanda/blob/master/riceteacatpanda/growlsatthechicken/growls_step1.png?raw=true)
 
-```
+```html
 <p hidden>9 20 30 15 16 5 14 19 30 27 29 8 20 13 12 28</p>
 <p hidden>"abcdefghijklmnopqrstuvwxyz[]. "</p>
 
@@ -49,7 +49,7 @@ I found new site ( http://unknown-123-246-470-726.herokuapp.com/ ) and i used in
 
 I made an python to decode it
 
-```
+```python
 numbers_list = [9, 20, 30, 15, 16, 5, 14, 19, 30, 27, 29, 8, 20, 13, 12, 28]
 char_list = "abcdefghijklmnopqrstuvwxyz[]. "
 decode = ""
