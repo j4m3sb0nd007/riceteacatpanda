@@ -44,7 +44,7 @@ AUG CAA GGU CUC UUG ACC CAG UGG AUA CUA AAU GCC UGG AAG GUA GCA UAC UAG
 
 ### Applying key
 
-[6] Glutamine   = m <br />
+[6] Gluta<b>m</b>ine   = m <br />
 [3] Glycine     = y <br />
 [4] Leucine     = c <br />
 [3] Leucine     = u <br />
