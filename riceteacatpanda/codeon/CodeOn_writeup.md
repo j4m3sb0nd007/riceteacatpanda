@@ -17,7 +17,7 @@ Make sure to encase the plaintext with rtcp{} Spaces are represented by a unders
 
 The title is subjective Code On to Codon (DNA or mRNA)
 
-<img src="https://github.com/j4m3sb0nd007/riceteacatpanda/blob/master/rna.png" alt="RNA" />
+<img src="https://github.com/j4m3sb0nd007/riceteacatpanda/blob/master/riceteacatpanda/codeon/rna.png?raw=true" alt="RNA" />
 
 ### Codon
 
