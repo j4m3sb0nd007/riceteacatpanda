@@ -27,39 +27,39 @@ AUG CAA GGU CUC UUG ACC CAG UGG AUA CUA AAU GCC UGG AAG GUA GCA UAC UAG
 
 01 - CAA - Glutamine <br />
 02 - GGU - Glycine <br />
-03 - CUC - Leucine . 
-04 - UUG - Leucine . 
-05 - ACC - Threonine .   
-06 - CAG - Glutamine . 
-07 - UGG - Tryptophan . 
-08 - AUA - Isoleucine . 
-09 - CUA - Leucine . 
-10 - AAU - Asparagine . 
-11 - GCC - Alanine . 
-12 - UGG - Tryptophan .
-13 - AAG - Lysine . 
-14 - GUA - Valine . 
-15 - GCA - Alanine . 
-16 - UAC - Tyrosine . 
+03 - CUC - Leucine <br />
+04 - UUG - Leucine <br />
+05 - ACC - Threonine <br />
+06 - CAG - Glutamine <br />
+07 - UGG - Tryptophan <br />
+08 - AUA - Isoleucine <br />
+09 - CUA - Leucine <br />
+10 - AAU - Asparagine <br />
+11 - GCC - Alanine <br />
+12 - UGG - Tryptophan <br />
+13 - AAG - Lysine <br />
+14 - GUA - Valine <br />
+15 - GCA - Alanine <br />
+16 - UAC - Tyrosine <br />
 
 ### Applying key
 
-[6] Glutamine   = m . 
-[3] Glycine     = y . 
-[4] Leucine     = c . 
-[3] Leucine     = u . 
-[1] Threonine   = T . 
-[9] Glutamine   = e . 
-[8] Tryptophan  = h . 
-[3] Isoleucine  = o . 
-[3] Leucine     = u . 
-[2] Asparagine  = s . 
-[7] Alanine     = e . 
-[4] Tryptophan  = p . 
-[1] Lysine      = L . 
-[2] Valine      = a . 
-[4] Alanine     = n . 
-[1] Tyrosine    = T . 
+[6] Glutamine   = m <br />
+[3] Glycine     = y <br />
+[4] Leucine     = c <br />
+[3] Leucine     = u <br />
+[1] Threonine   = T <br />
+[9] Glutamine   = e <br />
+[8] Tryptophan  = h <br />
+[3] Isoleucine  = o <br />
+[3] Leucine     = u <br />
+[2] Asparagine  = s <br />
+[7] Alanine     = e <br />
+[4] Tryptophan  = p <br />
+[1] Lysine      = L <br />
+[2] Valine      = a <br />
+[4] Alanine     = n <br />
+[1] Tyrosine    = T <br />
 
 ## Flag
 
