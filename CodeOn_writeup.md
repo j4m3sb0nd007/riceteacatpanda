@@ -1,3 +1,4 @@
+
 # Code On
 
 ## Description
@@ -18,8 +19,11 @@ The title is subjective Code On to Codon (DNA or mRNA)
 
 <img src="https://github.com/j4m3sb0nd007/riceteacatpanda/blob/master/rna.png" alt="RNA" />
 
+### Codon
 
-Codon = AUG CAA GGU CUC UUG ACC CAG UGG AUA CUA AAU GCC UGG AAG GUA GCA UAC UAG
+AUG CAA GGU CUC UUG ACC CAG UGG AUA CUA AAU GCC UGG AAG GUA GCA UAC UAG
+
+### Index of Amino Acids
 
 01 - CAA - Glutamine
 02 - GGU - Glycine
@@ -38,7 +42,7 @@ Codon = AUG CAA GGU CUC UUG ACC CAG UGG AUA CUA AAU GCC UGG AAG GUA GCA UAC UAG
 15 - GCA - Alanine
 16 - UAC - Tyrosine
 
-Apply Keys
+### Applying key
 
 [6] Glutamine   = m
 [3] Glycine     = y
@@ -57,4 +61,6 @@ Apply Keys
 [4] Alanine     = n
 [1] Tyrosine    = T
 
-FLAG: rtcp{my_cute_houseplant}
+## Flag
+
+rtcp{my_cute_houseplant}
