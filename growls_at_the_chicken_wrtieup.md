@@ -4,7 +4,7 @@
 
 ## Description
 
-grrrrrrR
+grrrrrrR<br />
 big chicken, i hisS At you!!!  
 
 ### Hint-1
@@ -27,12 +27,13 @@ First of all, we need to remove all spaces on Public and Private keys
 
 Then, i used these keys and texto on this online tool to get the secret information.
 
-https://8gwifi.org/rsafunctions.jsp
+[](https://8gwifi.org/rsafunctions.jsp)
 
-Image
+![](https://github.com/j4m3sb0nd007/riceteacatpanda/blob/master/rsa.png?raw=true)
 
 I found new site ( http://unknown-123-246-470-726.herokuapp.com/ ) and i used inspect element to get this information on source.
 
+```
 <p hidden>9 20 30 15 16 5 14 19 30 27 29 8 20 13 12 28</p>
 <p hidden>"abcdefghijklmnopqrstuvwxyz[]. "</p>
 
@@ -44,6 +45,7 @@ I found new site ( http://unknown-123-246-470-726.herokuapp.com/ ) and i used in
 <script>console.log('Jade: Yep, its in the drawer');</script>
 <script>console.log('Agate: Ill grab it.');</script>
 <script>console.log('ono.');</script>
+```
 
 I made an python to decode it
 
