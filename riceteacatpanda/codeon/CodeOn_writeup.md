@@ -42,6 +42,25 @@ AUG CAA GGU CUC UUG ACC CAG UGG AUA CUA AAU GCC UGG AAG GUA GCA UAC UAG
 15 - GCA - Alanine <br />
 16 - UAC - Tyrosine <br />
 
+| Index | Codon | Amino Acid |
+| -------- | -------- | -------- |
+| 01     | CAA     | Glutamine     |
+| 02     | GGU     | Glycine     |
+| 03     | CUC     | Leucine     |
+| 04     | UUG     | Leucine     |
+| 05     | ACC     | Threonine     |
+| 06     | CAG     | Glutamine     |
+| 07     | UGG     | Tryptophan     |
+| 08     | AUA     | Isoleucine     |
+| 09     | CUA     | Leucine     |
+| 10     | AAU     | Asparagine     |
+| 11     | GCC     | Alanine     |
+| 12     | UGG     | Tryptophan     |
+| 13     | AAG     | Lysine     |
+| 14     | GUA     | Valine     |
+| 15     | GCA     | Alanine     |
+| 16     | UAC     | Tyrosine     |
+
 ### Applying key
 
 [6] Gluta<b><span style="color:red">m</span></b>ine   = m <br />
