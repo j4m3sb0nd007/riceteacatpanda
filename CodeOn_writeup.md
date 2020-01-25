@@ -25,8 +25,8 @@ AUG CAA GGU CUC UUG ACC CAG UGG AUA CUA AAU GCC UGG AAG GUA GCA UAC UAG
 
 ### Index of Amino Acids
 
-01 - CAA - Glutamine . 
-02 - GGU - Glycine . 
+01 - CAA - Glutamine <br />
+02 - GGU - Glycine <br />
 03 - CUC - Leucine . 
 04 - UUG - Leucine . 
 05 - ACC - Threonine .   
