@@ -44,22 +44,22 @@ AUG CAA GGU CUC UUG ACC CAG UGG AUA CUA AAU GCC UGG AAG GUA GCA UAC UAG
 
 ### Applying key
 
-[6] Gluta<b>m</b>ine   = m <br />
-[3] Gl<b>y</b>cine     = y <br />
-[4] Leu<b>c</b>ine     = c <br />
-[3] Le<b>u</b>cine     = u <br />
-[1] <b>T</b>hreonine   = T <br />
-[9] Glutamin<b>e</b>   = e <br />
-[8] Tryptop<b>h</b>an  = h <br />
-[3] Is<b>o</b>leucine  = o <br />
-[3] Le<b>u</b>cine     = u <br />
-[2] A<b>s</b>paragine  = s <br />
-[7] Alanin<b>e</b>     = e <br />
-[4] Trypto<b>p</b>han  = p <br />
-[1] <b>L</b>ysine      = L <br />
-[2] V<b>a</b>line      = a <br />
-[4] Ala<b>n</b>ine     = n <br />
-[1] <b>T</b>yrosine    = T <br />
+[6] Gluta<b><span style="color:red">m</span></b>ine   = m <br />
+[3] Gl<b><span style="color:red">y</span></b>cine     = y <br />
+[4] Leu<b><span style="color:red">c</span></b>ine     = c <br />
+[3] Le<b><span style="color:red">u</span></b>cine     = u <br />
+[1] <b><span style="color:red">T</span></b>hreonine   = T <br />
+[9] Glutamin<b><span style="color:red">e</span></b>   = e <br />
+[8] Tryptop<b><span style="color:red">h</span></b>an  = h <br />
+[3] Is<b><span style="color:red">o</span></b>leucine  = o <br />
+[3] Le<b><span style="color:red">u</span></b>cine     = u <br />
+[2] A<b><span style="color:red">s</span></b>paragine  = s <br />
+[7] Alanin<b><span style="color:red">e</span></b>     = e <br />
+[4] Trypto<b><span style="color:red">p</span></b>han  = p <br />
+[1] <b><span style="color:red">L</span></b>ysine      = L <br />
+[2] V<b><span style="color:red">a</span></b>line      = a <br />
+[4] Ala<b><span style="color:red">n</span></b>ine     = n <br />
+  [1] <b><span style="color:red">T</span></b>yrosine    = T <br />
 
 ## Flag
 
