@@ -76,9 +76,21 @@ Using the Hint-3 (gather more hexenon) we got it:
 
 3563531888962843501 => HEX => 3174355F6368336D
 
+```python
+d = 3563531888962843501
+decimalToHex = hex(d).split('x')[-1]
+print decimalToHex.upper()
+```
+
 Using the Hint-3 (string the grineer up!) we got it:
 
 3174355F6368336D => ASCII => 1t5_ch3m
+
+```python
+d = 3563531888962843501
+decimalToHex = hex(d).split('x')[-1]
+print decimalToHex.upper().decode("hex")
+```
 
 ## Flag
 
