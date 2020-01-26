@@ -46,7 +46,6 @@ simple. Isn't it?
 * Thursday = 4
 * Friday = 5
 * Saturday = 6
-
 * Hump’s = 3
 * TGIF = 5
 
