@@ -46,6 +46,8 @@ AUG CAA GGU CUC UUG ACC CAG UGG AUA CUA AAU GCC UGG AAG GUA GCA UAC UAG
 
 ### Applying key
 
+Just apply the number of key to get string at position of Amino Acid.
+
 | Key | Amino Acid | Char |
 | -------- | -------- | -------- |
 | 6     | Glutamine     | m     |
